@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/fleet-force-cover.png" alt="Fleet Force — Mais clareza. Menos preocupação." width="100%" />
+<img src="../assets/fleet-force-cover.png" alt="Fleet Force — Mais clareza. Menos preocupação." width="100%" />
 
 <br />
 
@@ -84,7 +84,7 @@ O projeto está em desenvolvimento acadêmico e experimental. Wireframes, dados 
 
 <div align="center">
 
-<img src="./assets/SYMBOL LOGO FLEET FORCE.svg" alt="Símbolo Fleet Force" width="76" />
+<img src="../assets/SYMBOL LOGO FLEET FORCE.svg" alt="Símbolo Fleet Force" width="76" />
 
 ### Do custo à decisão.
 
